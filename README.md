@@ -7,7 +7,7 @@ It changes a lot of "fake particles" that dissappears with real actual particles
 It also changes how particles behave, some aspects have longer life-time while others behave more realisticly.
 
 ////Install////
-Place the "Realistic Particles v.1" folder in steamapps/common/Noita/mods folder.
+Place the "Realistic Particles v.x.x" folder in steamapps/common/Noita/mods folder.
 
 ///Changelog///
 
@@ -24,7 +24,14 @@ V.1 (initial release)
 * Skulls drops 3% more freezing and gunpowders when killed.
 * All barrels emits 3% more Oil, Acid etc.
 * Laterns emits 3% more Oil.
-* Added multiplier for Gore effects.
+* Added multiplier x0.8 for Gore effects.
 
 
-*V1.3 soon.
+*V.1.3 (update)
+***New Jetpack spark effect***   Note: will not ignite any flammables.
+* Player now kicks 1.2% harder.
+* Added longer life_time for gold nuggets.
+* Sparks can now ignite oil.
+* bomb radius increased from 60% -> 70%
+
+V.1.4 (soon)
