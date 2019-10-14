@@ -12,12 +12,14 @@ Place the "Realistic Particles v.x.x" folder in steamapps/common/Noita/mods fold
 ///Changelog///
 
 V.1 (initial release)
+FEATURES\
 * "loose_ground" rework. (world reacts more from explosions, making loose sand, ground particles fall down easier)
 * "base bomb" rework. (Spawns more smoke particles, more sparks during explosions. (does not affect player damage)(only world)
 * "tnt" rework. (Spawns more smoke particles, more sparks during explosions. (does not affect affect damage)(only visual)
 
 
 *V.1.2 (update)
+FEATURES\
 * Added "Magic_Numbers" additions.
 * Enemies drops 4% more blood.
 * Enemies drops 4% more acid
@@ -28,10 +30,18 @@ V.1 (initial release)
 
 
 *V.1.3 (update)
+FEATURES\
 ***New Jetpack spark effect***   Note: will not ignite any flammables.
 * Player now kicks 1.2% harder.
 * Added longer life_time for gold nuggets.
 * Sparks can now ignite oil.
 * bomb radius increased from 60% -> 70%
 
-V.1.4 (soon)
+V.1.4 (Update)
+FEATURES\
+* Arrows rework: Decreased arrow knock back 0.5% 
+* Flamethrowe Rework: Better particle effects, bigger burn radius, damage decreased to balance bigger radius.
+
+FIXES\
+* Fixed issue with barrels emitter.
+* Tweaked some particles life_time.
