@@ -9,6 +9,18 @@ It also changes how particles behave, some aspects have longer life-time while o
 ////Install////
 Place the "Realistic Particles v.x.x" folder in steamapps/common/Noita/mods folder.
 
+
+
+
+
+
+
+
+
+
+
+
+
 ///Changelog///
 
 V.1 (initial release)
