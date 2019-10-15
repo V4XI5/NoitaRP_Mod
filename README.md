@@ -1,15 +1,18 @@
 # NoitaRP_Mod
 Realistic Particles Mod for Noita.
 
+
+
 ////ModInfo////
 This mod changes how physical particles behave while playing.
 It changes a lot of "fake particles" that dissappears with real actual particles that can be further interacted with.
 It also changes how particles behave, some aspects have longer life-time while others behave more realisticly.
 
+
+
+
 ////Install////
 Place the "Realistic Particles v.x.x" folder in steamapps/common/Noita/mods folder.
-
-
 
 
 
@@ -53,7 +56,16 @@ V.1.4 (Update)
 FEATURES\
 * Arrows rework: Decreased arrow knock back 0.5% 
 * Flamethrowe Rework: Better particle effects, bigger burn radius, damage decreased to balance bigger radius.
-
 FIXES\
 * Fixed issue with barrels emitter.
 * Tweaked some particles life_time.
+
+
+V.1.5 (Update)
+FEATURES\
+* Explosive Skull box rework: 0.4% increased radius, 20% more particles, shakes_ground on explosion.
+* Explosive Oil Barrel rework: 0.4% increased radius, 20% more particles, shakes_ground on explosion.
+* Explosive RadioActive Barrel rework: 0.4% increased radius, 20% more particles, shakes_ground on explosion.
+* TNT Rework: Added realistic on_trail smoke particles, 1.4% more smoke particles, 0.2% more sparks, removed fake particles.
+* Edited some particles from various objects not to render_on_grid.
+
