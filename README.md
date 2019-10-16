@@ -72,7 +72,7 @@ Place the "Realistic Particles v.x.x" folder in steamapps/common/Noita/mods fold
 - [x] TNT Rework: Added realistic on_trail smoke particles, 1.4% more smoke particles, 0.2% more sparks, removed fake particles.
 - [x] Edited some particles from various objects not to render_on_grid.
 
-**v.1.6 (update)
+**v.1.6 (update)**
 **FEATURES\**
 
 - [x] Arror-re-rework: Arrows drops spring casing particle, longer white-trail on each arrow. 4 more bounces of the ground.
