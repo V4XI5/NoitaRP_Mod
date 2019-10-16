@@ -7,14 +7,14 @@
 ### **ModInfo**
 ###### This mod changes how physical particles behave while playing.
 ###### It changes a lot of "fake particles" that dissappears with real actual particles that can be further interacted with.
-###### It also changes how particles behave, some aspects have longer life-time while others behave more realisticly. 
+###### It also changes how particles behave, some aspects have longer life-time while others behave more realisticly.
 
 
  **Install**
- 
+
  First download the zip from this link: https://github.com/V4XI5/NoitaRP_Mod/archive/master.zip
- > Then extract the NoitaRP_Mod folder into C:\SteamLibrary\steamapps\common\Noita\mods 
- > then while in-game, press ESC and open the mod list, activate it from there. 
+ > Then extract the NoitaRP_Mod folder into C:\SteamLibrary\steamapps\common\Noita\mods
+ > then while in-game, press ESC and open the mod list, activate it from there.
 
 
 Place the "Realistic Particles v.x.x" folder in steamapps/common/Noita/mods folder
@@ -49,7 +49,7 @@ Place the "Realistic Particles v.x.x" folder in steamapps/common/Noita/mods fold
 
 **V.1.3 (update)**
 **FEATURES\**
-- [x] **New Jetpack spark effect**   Note: will not ignite any flammables.
+- [x] ~~ ~~New Jetpack spark effect   Note: will not ignite any flammables.~~ ~~
 - [x] Player now kicks 1.2% harder.
 - [x] Added longer life_time for gold nuggets.
 - [x] Sparks can now ignite oil.
@@ -72,3 +72,12 @@ Place the "Realistic Particles v.x.x" folder in steamapps/common/Noita/mods fold
 - [x] TNT Rework: Added realistic on_trail smoke particles, 1.4% more smoke particles, 0.2% more sparks, removed fake particles.
 - [x] Edited some particles from various objects not to render_on_grid.
 
+**v.1.6 (update)
+**FEATURES\**
+
+- [x] Arror-re-rework: Arrows drops spring casing particle, longer white-trail on each arrow. 4 more bounces of the ground.
+- [x] Magic_missle rework: brand new trail effect with spirals, 13% more particles upon explosion.
+- [x] Base wand rework: Brand new trail effect with spirals, 11% longer life_time on said particles. adds sparks on collision.
+- [x] Brand new Jetpack emitter, blue spirals with low life_time. 
+
+**v.1.7 (soon)
