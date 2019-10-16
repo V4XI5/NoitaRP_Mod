@@ -28,7 +28,7 @@ Place the "Realistic Particles v.x.x" folder in steamapps/common/Noita/mods fold
 
 
 ### **Changelog**
-## **changelog from version 1.0 to v 1.6:**
+#### **changelog from version 1.0 to v 1.6:**
 **FEATURES\**
 - [x] "loose_ground" rework: Loose sand/particles fall down easier from explosions.
 - [x] "base bomb" rework: Now emits Red sparks, more smoke, 10% increased radius.
@@ -46,7 +46,7 @@ Place the "Realistic Particles v.x.x" folder in steamapps/common/Noita/mods fold
 - [x] Sparks can now ignite oil.
 - [x] bomb radius increased from 60% -> 70%
 - [x] Arrows rework: Decreased arrow knock back 0.5%
-- [x] Flamethrower Rework: Better particle effects, bigger burn radius, damage decreased to balance bigger radius.
+- [x] ~~ ~~ Flamethrower Rework: Better particle effects, bigger burn radius, damage decreased to balance bigger radius. ~~ ~~
 - [x] Fixed issue with barrels emitter.
 - [x] Tweaked some particles life_time.
 - [x] Explosive Skull box rework: 0.4% increased radius, 20% more particles, shakes_ground on explosion.
@@ -61,4 +61,16 @@ Place the "Realistic Particles v.x.x" folder in steamapps/common/Noita/mods fold
 - [x] Laser rework: Spirals particles, longer life_time, less camera_shake.
 - [x] Fireball emits more spark particles.
 
-#### **v.1.7 Soon.**
+#### **v.1.7 Update.**
+
+- [x] SpitterBolt Rework: Sparks and small damage tweaks.
+- [x] SpitterBoltW/timer More particles with spirals and wind effects.
+- [x] BigSpitterBolt More particles and longer life_time.
+- [x] Bubble spark rework: More bouncy, pops with sparks, last longer.
+- [x] Lance rework: 0.6% more particles.
+- [x] Rocket2 rework: 0.9% more particles with spirals force applied.
+- [x] Rocket3 rework: 0.9% more particles with spirals force applied.
+- [x] Lowered Gore multiplier due to higher risk of unfair damage.
+- [x] Laser rework: 0.4% more particles with spirals force applied.
+- [x] Flamethrower re-rework: Added spirals to fire particles.
+- [x] Firebomb rework: adjusted speed, added few extra particles.
