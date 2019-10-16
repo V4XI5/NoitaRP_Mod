@@ -9,8 +9,6 @@ It changes a lot of "fake particles" that dissappears with real actual particles
 It also changes how particles behave, some aspects have longer life-time while others behave more realisticly.
 
 
-
-
 ////Install////
 Place the "Realistic Particles v.x.x" folder in steamapps/common/Noita/mods folder.
 
@@ -24,9 +22,10 @@ Place the "Realistic Particles v.x.x" folder in steamapps/common/Noita/mods fold
 
 
 
-///Changelog///
 
-V.1 (initial release)
+###### ///Changelog///
+
+###### V.1 (initial release)
 FEATURES\
 * "loose_ground" rework. (world reacts more from explosions, making loose sand, ground particles fall down easier)
 * "base bomb" rework. (Spawns more smoke particles, more sparks during explosions. (does not affect player damage)(only world)
@@ -54,7 +53,7 @@ FEATURES\
 
 V.1.4 (Update)
 FEATURES\
-* Arrows rework: Decreased arrow knock back 0.5% 
+* Arrows rework: Decreased arrow knock back 0.5%
 * Flamethrowe Rework: Better particle effects, bigger burn radius, damage decreased to balance bigger radius.
 FIXES\
 * Fixed issue with barrels emitter.
@@ -68,4 +67,4 @@ FEATURES\
 * Explosive RadioActive Barrel rework: 0.4% increased radius, 20% more particles, shakes_ground on explosion.
 * TNT Rework: Added realistic on_trail smoke particles, 1.4% more smoke particles, 0.2% more sparks, removed fake particles.
 * Edited some particles from various objects not to render_on_grid.
-
+######
