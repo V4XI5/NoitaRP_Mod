@@ -11,7 +11,13 @@
 
 
  **Install**
-###### Place the "Realistic Particles v.x.x" folder in steamapps/common/Noita/mods folder.
+ 
+ First download the zip from this link: https://github.com/V4XI5/NoitaRP_Mod/archive/master.zip
+ > Then extract the NoitaRP_Mod folder into C:\SteamLibrary\steamapps\common\Noita\mods 
+ > then while in-game, press ESC and open the mod list, activate it from there. 
+
+
+Place the "Realistic Particles v.x.x" folder in steamapps/common/Noita/mods folder
 
 
 
