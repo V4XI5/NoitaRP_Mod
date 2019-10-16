@@ -27,17 +27,12 @@ Place the "Realistic Particles v.x.x" folder in steamapps/common/Noita/mods fold
 
 
 
-### *Changelog**
-
- **V.1 (initial release)**
+### **Changelog**
+## **changelog from version 1.0 to v 1.6:**
 **FEATURES\**
 - [x] "loose_ground" rework: Loose sand/particles fall down easier from explosions.
 - [x] "base bomb" rework: Now emits Red sparks, more smoke, 10% increased radius.
 - [x] "tnt" rework: More smoke, more sparks.
-
-
- **V.1.2 (update)**
-**FEATURES\**
 - [x] Added "Magic_Numbers" additions.
 - [x] Enemies drops 4% more blood.
 - [x] Enemies drops 4% more acid
@@ -45,39 +40,25 @@ Place the "Realistic Particles v.x.x" folder in steamapps/common/Noita/mods fold
 - [x] All barrels emits 3% more Oil, Acid etc.
 - [x] Laterns emits 3% more Oil.
 - [x] Added multiplier x0.8 for Gore effects.
-
-
-**V.1.3 (update)**
-**FEATURES\**
 - [ ] ~~ ~~New Jetpack spark effect   Note: will not ignite any flammables.~~ ~~
 - [x] Player now kicks 1.2% harder.
 - [x] Added longer life_time for gold nuggets.
 - [x] Sparks can now ignite oil.
 - [x] bomb radius increased from 60% -> 70%
-
-**V.1.4 (Update)**
-**FEATURES\**
 - [x] Arrows rework: Decreased arrow knock back 0.5%
 - [x] Flamethrower Rework: Better particle effects, bigger burn radius, damage decreased to balance bigger radius.
-**FIXES\**
 - [x] Fixed issue with barrels emitter.
 - [x] Tweaked some particles life_time.
-
-
-**V.1.5 (Update)**
-**FEATURES\**
 - [x] Explosive Skull box rework: 0.4% increased radius, 20% more particles, shakes_ground on explosion.
 - [x] Explosive Oil Barrel rework: 0.4% increased radius, 20% more particles, shakes_ground on explosion.
 - [x] Explosive RadioActive Barrel rework: 0.4% increased radius, 20% more particles, shakes_ground on explosion.
 - [x] TNT Rework: Added realistic on_trail smoke particles, 1.4% more smoke particles, 0.2% more sparks, removed fake particles.
 - [x] Edited some particles from various objects not to render_on_grid.
-
-**v.1.6 (update)**
-**FEATURES\**
-
 - [x] Arror-re-rework: Arrows drops spring casing particle, longer white-trail on each arrow. 4 more bounces of the ground.
 - [x] Magic_missle rework: brand new trail effect with spirals, 13% more particles upon explosion.
 - [x] Base wand rework: Brand new trail effect with spirals, 11% longer life_time on said particles. adds sparks on collision.
-- [x] Brand new Jetpack emitter, blue spirals with low life_time. 
+- [x] Brand new Jetpack emitter, blue spirals with low life_time.
 - [x] Laser rework: Spirals particles, longer life_time, less camera_shake.
 - [x] Fireball emits more spark particles.
+
+#### **v.1.7 Soon.**
