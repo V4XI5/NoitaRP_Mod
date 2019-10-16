@@ -1,4 +1,4 @@
-# NoitaRP_Mod
+\# NoitaRP_Mod
 Realistic Particles Mod for Noita.
 
 
