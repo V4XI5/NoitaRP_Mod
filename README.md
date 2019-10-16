@@ -49,7 +49,7 @@ Place the "Realistic Particles v.x.x" folder in steamapps/common/Noita/mods fold
 
 **V.1.3 (update)**
 **FEATURES\**
-- [x] ~~ ~~New Jetpack spark effect   Note: will not ignite any flammables.~~ ~~
+- [ ] ~~ ~~New Jetpack spark effect   Note: will not ignite any flammables.~~ ~~
 - [x] Player now kicks 1.2% harder.
 - [x] Added longer life_time for gold nuggets.
 - [x] Sparks can now ignite oil.
@@ -58,7 +58,7 @@ Place the "Realistic Particles v.x.x" folder in steamapps/common/Noita/mods fold
 **V.1.4 (Update)**
 **FEATURES\**
 - [x] Arrows rework: Decreased arrow knock back 0.5%
-- [x] Flamethrowe Rework: Better particle effects, bigger burn radius, damage decreased to balance bigger radius.
+- [x] Flamethrower Rework: Better particle effects, bigger burn radius, damage decreased to balance bigger radius.
 **FIXES\**
 - [x] Fixed issue with barrels emitter.
 - [x] Tweaked some particles life_time.
@@ -79,5 +79,5 @@ Place the "Realistic Particles v.x.x" folder in steamapps/common/Noita/mods fold
 - [x] Magic_missle rework: brand new trail effect with spirals, 13% more particles upon explosion.
 - [x] Base wand rework: Brand new trail effect with spirals, 11% longer life_time on said particles. adds sparks on collision.
 - [x] Brand new Jetpack emitter, blue spirals with low life_time. 
-
-**v.1.7 (soon)
+- [x] Laser rework: Spirals particles, longer life_time, less camera_shake.
+- [x] Fireball emits more spark particles.
