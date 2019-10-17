@@ -77,14 +77,14 @@ Place the "Realistic Particles v.x.x" folder in steamapps/common/Noita/mods fold
 
 #### **v.1.8 Update.**
 
--[x] NEW JETPACK PARTICLE + bug fix! no longer emits by itself. only when you fly.
--[x] Rubber_ball has increased particles with longer life_time.
--[x] Bullet 1, 2 and 3 has increased particles with slightly longer life_time.
--[x] Heavy_bullet now has increased particles and slightly longer life_time, along with reduced knock_back.
--[x] Slow_bullet now has 12% increased particles and more sparks upon explosion.  
--[x] Black_hole has more particles and are also interactive.
+- [x] NEW JETPACK PARTICLE + bug fix! no longer emits by itself. only when you fly.
+- [x] Rubber_ball has increased particles with longer life_time.
+- [x] Bullet 1, 2 and 3 has increased particles with slightly longer life_time.
+- [x] Heavy_bullet now has increased particles and slightly longer life_time, along with reduced knock_back.
+- [x] Slow_bullet now has 12% increased particles and more sparks upon explosion.  
+- [x] Black_hole has more particles and are also interactive.
 
 NoitaRP_Mod is closed to be in a finished state.
 Version 2.0 will be final feature update, any updates after that will only be bug fixes and adjustments.
-Few wands edits and effects only remain! 
+Few wands edits and effects only remain!
 Enjoy!
