@@ -74,3 +74,12 @@ Place the "Realistic Particles v.x.x" folder in steamapps/common/Noita/mods fold
 - [x] Laser rework: 0.4% more particles with spirals force applied.
 - [x] Flamethrower re-rework: Added spirals to fire particles.
 - [x] Firebomb rework: adjusted speed, added few extra particles.
+
+#### **v.1.8 Update.**
+
+-[x] NEW JETPACK PARTICLE + bug fix! no longer emits by itself. only when you fly.
+-[x] Rubber_ball has increased particles with longer life_time.
+-[x] Bullet 1, 2 and 3 has increased particles with slightly longer life_time.
+-[x] Heavy_bullet now has increased particles and slightly longer life_time, along with reduced knock_back.
+-[x] Slow_bullet now has 12% increased particles and more sparks upon explosion.  
+-[x] Black_hole has more particles and are also interactive.
