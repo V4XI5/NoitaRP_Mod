@@ -26,21 +26,12 @@ Weapon cards are only visual changes!
  **Install**
 
  First download the zip from this link: https://github.com/V4XI5/NoitaRP_Mod/archive/master.zip
- > Then extract the NoitaRP_Mod folder into C:\SteamLibrary\steamapps\common\Noita\mods
- > then while in-game, press ESC and open the mod list, activate it from there.
-
-
-Place the "Realistic Particles v.x.x" folder in steamapps/common/Noita/mods folder
-
-
-
+ > Then extract the "NoitaRP_Mod" folder and "mod.xml" into C:\SteamLibrary\steamapps\common\Noita\mods
+ > then, while in-game, press ESC and open the mod list, activate it from there.
 
 **Changelogs can be found in the mod folder**
 
-
-
-
-
+**note**  
 NoitaRP_Mod is closed to be in a finished state.
 Version 2.0 will be final feature update, any updates after that will only be bug fixes and adjustments.
 Few wands edits and effects only remain!
