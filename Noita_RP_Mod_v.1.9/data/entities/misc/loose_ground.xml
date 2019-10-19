@@ -1,13 +1,13 @@
 <Entity >
    
   <LooseGroundComponent
-  	probability="900"
-        max_durability="900"
+  	probability="0.1"
+        
        >
   </LooseGroundComponent>
 
   <LifetimeComponent
-  	lifetime="240"
+  	lifetime="900"
   	randomize_lifetime.min="-50"
   	randomize_lifetime.max="50"
   	/>
