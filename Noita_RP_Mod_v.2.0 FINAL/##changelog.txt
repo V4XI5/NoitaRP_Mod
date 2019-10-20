@@ -1,17 +1,17 @@
-**v.1.9 Performance Update**
+**v.2.0 FINAL_BUILD**
+- [x] Pipebomb rework: 6% More particles.
+- [x] Lighting rework: 6% More particles, 0.5 less screenshake.
+- [x] Firebomb rework: Added real particles, longer life_time.
+- [x] Fireworks Blue, green, orange and pink rework: Added spirals, more particles, longer life_time.
+- [x] Air_bullet push: Added 3% more particles with airflow.
+- [x] All weapon cards Reworked! (Special cards are not edited)
 
-- [x] Performance patch!
-      Immproved performance by reducing some excessive particles that would render the game to run in "slow motion" 
-      Immproved performance when using flasks to spray particles. 
 
-- [x] loose_ground rework:
-  (Before v.1.9, bombs would shake the world violently. Dropping 50% more particles and leaving huge sand towers) 
-   Now, it will drop 45% less particles, but it will continuously drop for 40% longer in duration. 
 
-- [x] Bloode/gore Rework:  Enemies will now lose less blood/acid when hit.
-- [x] Barrles loose less oil when hit, also fixing the spray mechanic.
-- [x] Laterns drops less oil when hit.
-- [x] other small adjustments.
+
+Any future updates will only be tweaks and patches. no new features.
+Have fun! Please contact me if you find any bugs.
+V4Xi5 on discord.
 
 
 
@@ -19,7 +19,7 @@
 
 Changelog from previous versions:
 
-**changelogs from version 1.0 to v 1.8:**
+**changelogs from version 1.0 to v 1.9:**
 **FEATURES\**
 - [x] "loose_ground" rework: Loose sand/particles fall down easier from explosions. (REWORKED in v.1.9)!!
 - [x] "base bomb" rework: Now emits Red sparks, more smoke, 10% increased radius.
@@ -31,7 +31,7 @@ Changelog from previous versions:
 - [x] All barrels emits 3% more Oil, Acid etc.
 - [x] Laterns emits 3% more Oil.
 - [x] Added multiplier x0.8 for Gore effects.
-- [ ] ~~ ~~New Jetpack spark effect   Note: will not ignite any flammables.~~ ~~
+- [ ] ~~ ~~New Jetpack spark effect   Note: will not ignite any flammables.~~ ~~ 
 - [x] Player now kicks 1.2% harder.
 - [x] Added longer life_time for gold nuggets.
 - [x] Sparks can now ignite oil.
@@ -68,5 +68,16 @@ Changelog from previous versions:
 - [x] Heavy_bullet now has increased particles and slightly longer life_time, along with reduced knock_back.
 - [x] Slow_bullet now has 12% increased particles and more sparks upon explosion.  
 - [x] Black_hole has more particles and are also interactive.
+- [x] Performance patch!
+      Immproved performance by reducing some excessive particles that would render the game to run in "slow motion" 
+      Immproved performance when using flasks to spray particles. 
 
+- [x] loose_ground rework:
+  (Before v.1.9, bombs would shake the world violently. Dropping 50% more particles and leaving huge sand towers) 
+   Now, it will drop 45% less particles, but it will continuously drop for 40% longer in duration. 
+
+- [x] Bloode/gore Rework:  Enemies will now lose less blood/acid when hit.
+- [x] Barrles loose less oil when hit, also fixing the spray mechanic.
+- [x] Laterns drops less oil when hit.
+- [x] other small adjustments.
 

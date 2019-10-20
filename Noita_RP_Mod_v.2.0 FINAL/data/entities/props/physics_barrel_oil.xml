@@ -58,7 +58,7 @@
     <config_explosion
       never_cache="0"
       damage="2.6"
-      camera_shake="35" 
+      camera_shake="25" 
       explosion_radius="45" 
       explosion_sprite="data/particles/explosion_032.xml" 
       explosion_sprite_lifetime="15" 
