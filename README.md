@@ -5,7 +5,8 @@
 
 
 ### **ModInfo**
-This mod changes a lot of stuff:
+This mod changes how particles behave and their effects:
+
 * life_time changes every weapon based cards.
 * how particles behave when next/close to explosions.
 * shockwaves from bombs will crumble the world and leave behind more particles on the ground.
@@ -24,6 +25,13 @@ Standard difficulty is kept in mind while creating this mod.
 
  **Install**
 
+**Auto:**
+Using the installer:
+Launch the installer, select the steamapps/common/noita/mods folder, and extract. 
+If you have an earlier version of the mod, just say yes to replacing them.
+
+
+**Manual:**
  First download the zip from this link: https://github.com/V4XI5/NoitaRP_Mod/archive/master.zip
  > Then extract the "NoitaRP_Mod" folder and "mod.xml" into C:\SteamLibrary\steamapps\common\Noita\mods
  > then, while in-game, press ESC and open the mod list, activate it from there.
@@ -33,5 +41,5 @@ Standard difficulty is kept in mind while creating this mod.
 **Changelogs can be found in the mod folder**
 
 **note**  
-NoitaRP_Mod is now done! V.2.0 is the final build to include any new features.
+NoitaRP_Mod is now done! V.2.0.1 is the final build to include any new features.
 Any furture updates will only be bugfixes.
