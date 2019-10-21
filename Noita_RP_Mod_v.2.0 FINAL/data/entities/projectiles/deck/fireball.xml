@@ -97,7 +97,7 @@
     lifetime_min="0.1"
     lifetime_max="0.3"
 	airflow_force="1.5"
-	airflow_tiome="1.00"
+	airflow_time="1.00"
 	airflow_scale="0.05"
     create_real_particles="1"
     emit_cosmetic_particles="0"
