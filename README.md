@@ -1,5 +1,5 @@
 # **NoitaRP_Mod**
-## Realistic Particles Mod for Noita.
+ Realistic Particles Mod for Noita.
 
 ---
 
@@ -17,6 +17,7 @@ This mod changes how particles behave and their effects:
 Wind effects, spiral forces, and interaction. making it even more immersive and fun to look at.
 
 ---
+
 ### **Note**
 This mod does not act as way of cheating!
 Standard difficulty is kept in mind while creating this mod.
