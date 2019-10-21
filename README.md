@@ -26,21 +26,20 @@ Standard difficulty is kept in mind while creating this mod.
 
  **Install**
 
-```**Installer:**
-
+**Installer:**
 Launch the installer, browse your way to the steamapps/common/noita/mods folder, and extract.
-If you have an earlier version of the mod, just say "yes to replacing all".```
+If you have an earlier version of the mod, just say "yes to replacing all"
 
 
-```**Manual:**
+
+**Manual:**
  First download the zip from this link: https://github.com/V4XI5/NoitaRP_Mod/archive/master.zip
  > Then extract the "NoitaRP_Mod" folder and "mod.xml" into C:\SteamLibrary\steamapps\common\Noita\mods
- > then, while in-game, press ESC and open the mod list, activate it from there. ```
+ > then, while in-game, press ESC and open the mod list, activate it from there. 
 
 -----
 
 **Changelogs can be found in the mod folder**
-
-```**note**  
+**note**  
 NoitaRP_Mod is now done! V.2.0.1 is the final build to include any new features.
-Any furture updates will only be bugfixes.```
+Any furture updates will only be bugfixes.
