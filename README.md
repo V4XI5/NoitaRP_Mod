@@ -1,9 +1,7 @@
 # **NoitaRP_Mod**
  Realistic Particles Mod for Noita.
-
----
-
-
+ 
+ 
 ### **ModInfo**
 This mod changes how particles behave and their effects:
 
@@ -41,10 +39,10 @@ If you have an earlier version of the mod, just say "yes to replacing all"
 ```
 -----
 
-``` about NoitaRP_Installer, some people claim that windows defender has marked it as a severe trojan.
+ About NoitaRP_Installer, some people claim that windows defender has marked it as a severe trojan.
 this is not the case, it's created via winrar, and you can even right click on the installer
 and view the contents. It's a false-positive.
-```
+
 
 
 
