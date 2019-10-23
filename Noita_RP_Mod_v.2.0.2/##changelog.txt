@@ -1,11 +1,7 @@
-**v.2.0 FINAL_BUILD**
-- [x] Pipebomb rework: 6% More particles.
-- [x] Lighting rework: 6% More particles, 0.5 less screenshake.
-- [x] Firebomb rework: Added real particles, longer life_time.
-- [x] Fireworks Blue, green, orange and pink rework: Added spirals, more particles, longer life_time.
-- [x] Air_bullet push: Added 3% more particles with airflow.
-- [x] All weapon cards Reworked! (Special cards are not edited)
-
+Changelog for v.2.0.2
+reduced particles for "light_bullet" by 8%. (requested)
+Changes for readme.md
+installer update.
 
 
 
@@ -19,7 +15,7 @@ V4Xi5 on discord.
 
 Changelog from previous versions:
 
-**changelogs from version 1.0 to v 1.9:**
+**changelogs from version 1.0 to v 2.0.1:**
 **FEATURES\**
 - [x] "loose_ground" rework: Loose sand/particles fall down easier from explosions. (REWORKED in v.1.9)!!
 - [x] "base bomb" rework: Now emits Red sparks, more smoke, 10% increased radius.
@@ -80,4 +76,10 @@ Changelog from previous versions:
 - [x] Barrles loose less oil when hit, also fixing the spray mechanic.
 - [x] Laterns drops less oil when hit.
 - [x] other small adjustments.
-
+**v.2.0 FINAL_BUILD**
+- [x] Pipebomb rework: 6% More particles.
+- [x] Lighting rework: 6% More particles, 0.5 less screenshake.
+- [x] Firebomb rework: Added real particles, longer life_time.
+- [x] Fireworks Blue, green, orange and pink rework: Added spirals, more particles, longer life_time.
+- [x] Air_bullet push: Added 3% more particles with airflow.
+- [x] All weapon cards Reworked! (Special cards are not edited)

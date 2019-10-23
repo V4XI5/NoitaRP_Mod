@@ -1,7 +1,7 @@
-# **NoitaRP_Mod**
+# **NoitaRP_Mod v.2.0.2**
  Realistic Particles Mod for Noita.
- 
- 
+
+
 ### **ModInfo**
 This mod changes how particles behave and their effects:
 
@@ -35,7 +35,7 @@ If you have an earlier version of the mod, just say "yes to replacing all"
 ```
  First download the zip from this link: https://github.com/V4XI5/NoitaRP_Mod/archive/master.zip
  > Then extract the "NoitaRP_Mod" folder and "mod.xml" into C:\SteamLibrary\steamapps\common\Noita\mods
- > then, while in-game, press ESC and open the mod list, activate it from there. 
+ > then, while in-game, press ESC and open the mod list, activate it from there.
 ```
 -----
 
@@ -47,4 +47,3 @@ and view the contents. It's a false-positive.
 
 
 **Changelogs can be found in the mod folder**
-
