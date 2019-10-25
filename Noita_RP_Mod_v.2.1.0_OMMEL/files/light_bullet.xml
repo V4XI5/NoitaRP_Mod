@@ -1,0 +1,43 @@
+<Entity name="$projectile_default">
+
+	<Base file="data/entities/base_projectile.xml" >
+    <VelocityComponent
+      gravity_y="200"
+      air_friction="1.7"
+	  mass="0.04"
+	  >
+    </VelocityComponent>
+	</Base>
+
+  <ProjectileComponent 
+    
+    ragdoll_force_multiplier="0.010"
+    hit_particle_force_multiplier="2.1"
+    
+	>
+    <config_explosion
+      
+      sparks_count_max="3" 
+      sparks_count_min="2" 
+      sparks_enabled="1"  
+      material_sparks_count_max="3"
+      material_sparks_count_min="2" 
+      light_enabled="1">
+    </config_explosion>
+  </ProjectileComponent>
+  
+  
+  
+  	<!-- dense emitter -->
+	<ParticleEmitterComponent 
+		count_max="2"
+		lifetime_min="1"
+		lifetime_max="2"
+		airflow_force="2.5"
+		airflow_time="1.00"
+	   	emission_interval_max_frames="1">
+	
+	</ParticleEmitterComponent>
+	
+
+</Entity>
