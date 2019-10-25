@@ -29,13 +29,6 @@ Standard difficulty is kept in mind while creating this mod.
 ```
 Standalone version is only if you just wish to install this mod.
 Ommel version is for when you use other mods on top of this mod, to avoid collision between the mods.
-
-
-
------
-
-
-
-
+```
 
 **Changelogs can be found in the mod folder**
