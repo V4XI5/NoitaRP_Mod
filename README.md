@@ -1,4 +1,4 @@
-# **NoitaRP_Mod v.2.0.2**
+# **NoitaRP_Mod v.2.0.2 & v.2.1.0_Ommel**
  Realistic Particles Mod for Noita.
 
 
