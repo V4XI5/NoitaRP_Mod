@@ -4,14 +4,17 @@
 
 ### **ModInfo**
 Particle Effects Overhaul.
-Featuring new effects, longer life_time and wind effects on every weapon in Noita.
+Featuring new effects on wands, changed effects and much more! 
 
 
-<img src="https://media.giphy.com/media/jru9CWPtoqKv5jcguB/giphy.gif" width="858" height="259" />
+<img src="https://media.giphy.com/media/jru9CWPtoqKv5jcguB/giphy.gif" width="480" height="145" />
 
-<img src="https://media.giphy.com/media/RiPxmWs4wHkQakKVLg/giphy.gif" width="858" height="259" />
+<img src="https://media.giphy.com/media/RiPxmWs4wHkQakKVLg/giphy.gif" width="480" height="280" />
 
-<img src="https://media.giphy.com/media/eiGjjtU2F5W3z7ud5Y/giphy.gif" width="858" height="259" />
+<img src="https://media.giphy.com/media/eiGjjtU2F5W3z7ud5Y/giphy.gif" width="480" height="220" />
+
+<img src="https://media.giphy.com/media/mCDtczcdIjGlHHtoYQ/giphy.gif" width="480" height="220" />
+
 ---
 
 ### **Note**
