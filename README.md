@@ -30,13 +30,13 @@ This is purely a visual enhancement!
 **How To Install: STANDALONE / Ommel VERSION:**
 ```
 FOR STANDALONE:
- First download the zip from this link: https://github.com/V4XI5/NoitaRP_Mod/archive/master.zip
+ First download the zip from this link: https://tinyurl.com/s9yg9ov
  > Then extract the "NoitaRP_Mod" folder and "mod.xml" into C:\SteamLibrary\steamapps\common\Noita\mods
  > then, while in-game, press ESC and open the mod list, activate it from the experimental mod section.
  ```
  ```
 FOR OMMEL:
- > Make sure to have the latest version of **[ommel](https://modworkshop.net/mydownloads.php?action=view_down&did=25742) installed.
+ > Make sure to have the latest version of ommel installed https://tinyurl.com/rbeor4b
  > Then extract the "NoitaRP_Mod-2.1.1_ommel" folder and "mod.xml" into C:\SteamLibrary\steamapps\common\Noita\mods
  > then, while in-game, press ESC and open the mod list, activate it from the experimental mod section.
 ```
