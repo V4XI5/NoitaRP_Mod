@@ -1,12 +1,16 @@
-Changelog for v.2.1.0 OMMEL Version. created by: V4Xi5
+Changelog for v.2.1.1 OMMEL Version. created by: V4Xi5
 
-NoitaRP_Mod 2.1.0 Changelog:
-- [x] Mod is now made ommel compatible.
-- [x] Few effects where removed due to contraints.
-- [x] Tweaked a few effects.
-- [x] Sliced xml's.
-- [x] Removed installer due to windows defender complications.
-- [x] standalone version on noitaRP is still avaible for people who does not use ommel.
+NoitaRP_Mod 2.1.1 Changelog:
+
+
+BUG-FIXES:
+-[x] Updated to work correctly with v0.1.22 version of ommel.
+-[x] Added previously removed effects that caused problems with ommel. (thanks zathers)
+-[x] XML Clean-up.
+-[x] Further improving performance issues.
+FEATURES:
+-[x] Added dust of wind effect on jetpack. [whiteglow]
+
 
 
 

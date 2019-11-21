@@ -3,8 +3,8 @@
   
     <config_explosion
       never_cache="1" 
-      camera_shake="5.5" 
-      explosion_radius="15" 
+      camera_shake="1.5" 
+      explosion_radius="5" 
       explosion_sprite="data/particles/explosion_040_poof.xml" 
       explosion_sprite_lifetime="0" 
       create_cell_probability="100" 
@@ -22,8 +22,8 @@
       physics_throw_enabled="1" 
       shake_vegetation="1" 
       sparks_enabled="1" 
-      sparks_count_max="300" 
-      sparks_count_min="100"
+      sparks_count_max="100" 
+      sparks_count_min="30"
 	  create_real_particles="1"
       light_fade_time="0.8" 
       stains_enabled="1" 

@@ -18,10 +18,10 @@
       ><config_explosion
         never_cache="0" 
         damage="5"
-        camera_shake="150" 
-        explosion_radius="60" 
+        camera_shake="50" 
+        explosion_radius="50" 
         explosion_sprite="data/particles/explosion_128.xml" 
-        explosion_sprite_lifetime="0" 
+        explosion_sprite_lifetime="0.1" 
         load_this_entity="data/entities/particles/particle_explosion/main_large_radius.xml,data/entities/misc/loose_ground.xml"
         create_cell_probability="40" 
         hole_destroy_liquid="0" 
@@ -29,16 +29,16 @@
         ray_energy="6000000"
         particle_effect="1" 
         damage_mortals="1"
-        physics_explosion_power.min="4.2" 
-        physics_explosion_power.max="5.6" 
+        physics_explosion_power.min="1.2" 
+        physics_explosion_power.max="2.6" 
         physics_throw_enabled="1"
         shake_vegetation="1" 
-        sparks_count_min="600" 
-        sparks_count_max="1000" 
+        sparks_count_min="10" 
+        sparks_count_max="20" 
         sparks_enabled="1" 
         stains_enabled="1" 
-        stains_radius="15" 
-		max_durability_to_destroy="50" >
+        stains_radius="2" 
+		max_durability_to_destroy="20" >
       </config_explosion>
     </ProjectileComponent>
 
@@ -64,7 +64,7 @@
     y_vel_min="-10"
     y_vel_max="10"
     count_min="10"
-    count_max="56"
+    count_max="46"
     lifetime_min="0.1"
     lifetime_max="0.3"
     create_real_particles="1"

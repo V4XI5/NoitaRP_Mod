@@ -1,0 +1,13 @@
+<Entity>
+   
+    <VerletPhysicsComponent
+    	stiffness="0.5"
+        resting_distance="1.5"
+    	collide_with_cells="1"
+    	mass_min="0.1"
+    	mass_max="1.2"
+		stain_cells_probability="1"
+        cloth_sprite_z_index="0.7"/>
+
+  
+</Entity>

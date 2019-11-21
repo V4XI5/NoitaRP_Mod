@@ -127,4 +127,12 @@
         <SourceFile>files/bomb.xml</SourceFile>
         <TargetFile>data/entities/projectiles/bomb.xml</TargetFile>
     </XMLMerge>
+		<XMLMerge>
+        <SourceFile>files/grenade.xml</SourceFile>
+        <TargetFile>data/entities/projectiles/deck/grenade.xml</TargetFile>
+    </XMLMerge>
+	<XMLMerge>
+        <SourceFile>files/black_hole.xml</SourceFile>
+        <TargetFile>data/entities/projectiles/deck/black_hole.xml</TargetFile>
+    </XMLMerge>
 </OmmelMod>
