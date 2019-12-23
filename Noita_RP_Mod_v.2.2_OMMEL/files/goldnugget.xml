@@ -1,0 +1,10 @@
+<Entity name="unknown" >
+
+  
+
+  <LifetimeComponent
+    lifetime="9000" >
+  </LifetimeComponent>
+  
+
+</Entity>

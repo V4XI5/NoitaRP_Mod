@@ -1,10 +1,10 @@
-# **NoitaRP_Mod v.2.0.2 & v.2.1.1_Ommel**
+# **NoitaRP_Mod v.2.0.2 & v.2.2_Ommel**
  Realistic Particles Mod for Noita.
 
 
 ### **ModInfo**
 Particle Effects Overhaul.
-Featuring new effects on wands, changed effects and much more!
+Featuring new effects on wands, changed world behavior and much more!
 
 
 <img src="https://media.giphy.com/media/jru9CWPtoqKv5jcguB/giphy.gif" width="480" height="145" />

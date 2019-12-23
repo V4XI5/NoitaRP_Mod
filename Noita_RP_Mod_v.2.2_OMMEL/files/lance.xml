@@ -1,0 +1,68 @@
+<Entity>
+
+  
+    <config_explosion
+      never_cache="1" 
+      damage="0"
+      camera_shake="0" 
+      explosion_radius="1" 
+      explosion_sprite="data/particles/explosion_016_plasma.xml" 
+      explosion_sprite_lifetime="0" 
+      create_cell_probability="0" 
+      hole_destroy_liquid="0" 
+      hole_enabled="1" 
+      hole_image="data/temp/explosion_hole.png"
+	  explosion_sprite_additive="1"
+      ray_energy="100000"
+      particle_effect="1"
+	  physics_explosion_power.min="0"  
+      physics_explosion_power.max="0"  
+      physics_throw_enabled="0" 
+      shake_vegetation="1" 
+      sparks_count_min="15"
+      sparks_count_max="22"
+      sparks_enabled="1"
+	  spark_material="spark_blue"
+      light_enabled="1" 
+	  light_fade_time="1"
+	  light_r="40"
+	  light_g="120"
+	  light_b="180"
+      stains_enabled="1"
+      stains_radius="1"/>
+  
+	
+	<ParticleEmitterComponent 
+		emitted_material_name="spark_blue"
+		gravity.y="0.10"
+		offset.x="0"
+		offset.y="0"
+		x_pos_offset_min="-1"
+		y_pos_offset_min="0"
+		x_pos_offset_max="1"
+		y_pos_offset_max="0"
+		x_vel_min="-10"
+		x_vel_max="10"
+		y_vel_min="0"
+		y_vel_max="0"
+		count_min="55"
+		count_max="95"
+		lifetime_min="0.6"
+		lifetime_max="5.8"
+		render_on_grid="1"
+		is_trail="1"
+		trail_gap="1.5"
+		airflow_force="2.5"
+		airflow_time="1.505"
+		airflow_scale="2.01"
+		fade_based_on_lifetime="1"
+		create_real_particles="0"
+		emit_cosmetic_particles="1"
+		emission_interval_min_frames="0"
+		emission_interval_max_frames="1"
+		is_emitting="1" />
+	
+
+
+</Entity>
+
